@@ -1,2 +1,2 @@
 # piosapp
-PiOS App
+PiOS App for IOS and Android
